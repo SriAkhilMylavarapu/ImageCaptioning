@@ -1,0 +1,9 @@
+**/.claude/settings.local.json
+/archive
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.venv
+.claude
+/pickles
+/model_weights
+venv/
