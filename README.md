@@ -28,3 +28,11 @@ The model is trained using:
 Evaluation metrics include:
 - BLEU scores (BLEU-1 and BLEU-4) for both Greedy and Beam search caption generation
 - Accuracy and loss values
+
+## Sample caption generation example
+
+![Sample_caption](Example_captions.png)
+
+## BLEU Scores
+
+![BLEU_scores](BLEU_scores.png)
