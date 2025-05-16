@@ -7,3 +7,7 @@
 /pickles
 /model_weights
 venv/
+glove.6B.200d.txt
+.mlcuda
+mlcuda/
+/checkpoints
